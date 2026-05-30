@@ -86,3 +86,5 @@ A drop-in proxy that **hard-blocks** the next LLM call before it breaches your b
 </p>
 
 <p align="center"><i>⚡ Open to DevOps / Platform / Cloud Engineering roles</i></p>
+
+<!-- profile -->
