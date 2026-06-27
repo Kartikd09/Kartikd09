@@ -8,9 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-dalal0912/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:kartikds009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://kartik-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://kartikdalal0912.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -22,8 +21,8 @@ A drop-in proxy that **hard-blocks** the next LLM call before it breaches your b
 
 > Observability tools *show* you spend. FuseGuard *stops* it. Building in public 🛠️
 
-**[Portfolio](https://kartik-portfolio.vercel.app)** — *my DevOps portfolio, "The Control Plane."*
-A dark infra-dashboard site (Next.js 16 · Tailwind · Framer Motion) with animated multi-cloud architecture, live impact metrics, and project case studies. Built and shipped through a full feature → develop → main CI/CD pipeline on Vercel.
+**[Portfolio](https://kartikdalal0912.vercel.app)** — *my DevOps portfolio, "The Control Plane."*
+A dark infra-dashboard site (Next.js 16 · Tailwind v4 · Framer Motion 12) with animated multi-cloud architecture, live impact metrics, and project case studies. Built and shipped through a full feature → develop → main CI/CD pipeline on Vercel.
 
 ---
 
